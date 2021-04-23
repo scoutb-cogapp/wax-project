@@ -1,0 +1,86 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/yellow.json",
+  "@type": "sc:Collection",
+  "label": "yellow",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel06/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel06"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel13"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel05"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel02"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel04"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel09/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel09"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel14/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel14"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel07/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel07"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel08/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel08"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel15"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/yel12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "yel12"
+    }
+  ]
+}
